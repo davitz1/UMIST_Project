@@ -253,13 +253,7 @@ The training curves show **stable convergence**:
 
 The test results indicate **perfect generalization** on the test set.
 
-**Qualitative examples:**
-
 The sample test predictions (true = predicted) include different poses/angles, suggesting the CNN learned identity-relevant features that remain stable under typical UMIST variations (pose/expression), at least within this dataset’s conditions.
 
 ---
 
-## Notes / Next Steps
-
-* Add links to notebooks/scripts used for preprocessing, PCA/AE training, clustering, and CNN training.
-* Add the actual plots/images into the placeholders above for a complete report-style README.
